@@ -1,0 +1,144 @@
+/*----------------this is default setting------------------*/
+
+*{
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+    box-sizing: border-box;
+    
+    
+    }
+    .external {
+        background-color: red;
+        color: antiquewhite;
+        text-align: center;
+        margin-left: 10px;
+        margin-right: 10px;
+        margin-top: 10px;
+    }
+    .methods {
+        background-color: green;
+        color: antiquewhite;
+        margin-left: 10px;
+    }
+    #button1 {
+        background: yellow;
+        padding: 5px;
+        margin-left: 10px;
+        margin-right: 10px;
+    }
+    #num1 {
+        margin-top: 50px;
+        background-color: palevioletred;
+        padding: 10px;
+        font-size: 26px;
+        font-family: sans-serif;
+        font-weight: 500;
+        margin-left: 10px;
+        margin-right: 10px;
+    }
+    .num2 {
+        color: blue;
+        margin-left: 15px;
+        font-size: 36px;
+    }
+    .num3 {
+        background-color: rgb(186, 136, 145);
+        margin-left: 10px;
+        margin-right: 10px;
+        font-size: 42px;
+    }
+    .num4 {
+        background-color: rgb(132, 188, 47);
+        font-size: 46px;
+        font-weight: 600px;
+        margin-left: 10px;
+        margin-right: 10px;
+    }
+    .num5 {
+        background-color: pink;
+        font-size: 46px;
+        margin-left: 10px;
+        margin-right: 10px;
+    }
+    #but1 {
+        background-color: black;
+        color: aliceblue;
+        margin-top: 50px;
+        margin-left: 10px;
+        font-size: 24px;
+        padding: 5px;
+    }
+    #but2 {
+        background-color: yellow;
+        color: black;
+        margin-top: 50px;
+        margin-left: 10px;
+        font-size: 24px;
+        padding: 5px;
+    
+    }
+    .textbold {
+        font-size: 42px;
+        font-weight: 900px;
+        margin-top: 30px;
+        margin-left: 10px;
+    }
+    .textbold2 {
+        font-weight: 900px;
+        margin-top: 30px;
+        margin-left: 10px;
+    
+    }
+    .btn-success {
+        margin-left: 10px;
+        border: 1px solid black;
+        border-radius: 0%;
+        padding: 5px;
+    }
+    .btn-light {
+        margin-left: 10px;
+        border: 1px solid black;
+        border-radius: 0%;
+        padding: 5px;
+    }
+    .div1 {
+        font-size: 36px;
+        margin-left: 10px;
+    }
+    .div2 {
+        font-size: 36px;
+        margin-left: 10px;
+    }
+    .div3 {
+        font-weight: bold;
+        margin-left: 10px;
+    }
+    .style1 {
+        background-color: yellow;
+        font-size: 36px;
+        text-align: center;
+        margin-left: 10px;
+        margin-top: 40px;
+        color: red;
+    }
+    .style2 {
+        font-size: 36px;
+        margin-left: 10px;
+    }
+    .style3 {
+        font-size: 36px;
+        margin-left: 10px;
+    }
+    .itsme {
+        text-align: center;
+        font-size: 36px;
+        font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+        color: blue;
+        margin-top: 30px;
+    
+    }
+    .line1{
+        height: 10px;
+        color: rgba(224, 45, 5, 0.793);
+    }
